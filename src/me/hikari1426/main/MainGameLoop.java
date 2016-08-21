@@ -1,4 +1,4 @@
-package me.hikari1426.engineTest;
+package me.hikari1426.main;
 
 import org.lwjgl.opengl.Display;
 
