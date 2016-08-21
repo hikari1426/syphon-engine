@@ -16,7 +16,7 @@ public class DisplayManager {
 	 * Cria a janela base do jogo.
 	 */
 	public static void createDisplay() {
-		ContextAttribs attribs = new ContextAttribs(3,2).withForwardCompatible(true)
+		ContextAttribs attribs = new ContextAttribs(3,3).withForwardCompatible(true)
 				.withProfileCore(true);
 		
 		try {
