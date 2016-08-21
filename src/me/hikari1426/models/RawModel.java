@@ -1,4 +1,4 @@
-package me.hikari1426.renderEngine;
+package me.hikari1426.models;
 
 public class RawModel {
 	

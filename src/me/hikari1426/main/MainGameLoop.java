@@ -2,9 +2,9 @@ package me.hikari1426.main;
 
 import org.lwjgl.opengl.Display;
 
+import me.hikari1426.models.RawModel;
 import me.hikari1426.renderEngine.DisplayManager;
 import me.hikari1426.renderEngine.Loader;
-import me.hikari1426.renderEngine.RawModel;
 import me.hikari1426.renderEngine.Renderer;
 import me.hikari1426.shaders.StaticShader;
 
